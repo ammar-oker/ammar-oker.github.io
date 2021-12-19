@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6849be08-5a1b-411f-94b2-21af08d51030" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chunks/pages/_app-90698d0e68dbea24.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app-90698d0e68dbea24.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chunks/pages/_error-2280fa386d040b66.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_error-2280fa386d040b66.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chunks/pages/index-c643a9b3869149fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index-c643a9b3869149fa.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chunks/pages/resume-dfa8ad010671bb3a.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resume-dfa8ad010671bb3a.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639929841235</updated>
-      <workItem from="1639929842745" duration="1898000" />
+      <workItem from="1639929842745" duration="2148000" />
     </task>
     <servers />
   </component>
