@@ -48,12 +48,11 @@
         .home {
             position: relative;
             min-height: 100vh;
-            min-width: 100vw;
         }
         .home .content {
             position: absolute;
             width: 100%;
-            max-width: 455px;
+            max-width: 496px;
             top: 25%;
             left: 50%;
             transform: translate(-50%, -25%);
@@ -65,12 +64,22 @@
             }
         }
         .modal-dialog {
-            max-width: 522px;
+            max-width: 534px;
+        }
+
+        .form-control:focus {
+            border-color: #8e8e8e;
+            box-shadow: 0 0 0 0.15rem rgb(142 142 142 / 30%);
         }
 
         svg {
-            width: 16px;
-            height: 16px;
+            width: 18px;
+            height: 18px;
+        }
+
+        a svg {
+            width: 24px;
+            height: 24px;
         }
 
         .btn:focus {
@@ -146,8 +155,8 @@
                 <div class="modal-body">
                     <div class="mb-3">
                         Let's work on something great together or just say Hi!, fill the
-                        contact form below or contact on my email <a
-                            href="mailto:oker.ammar@gmail.com">oker.ammar@gmail.com</a>
+                        contact form below or contact on my email <a class="text-decoration-none text-black"
+                            href="mailto:oker.ammar@gmail.com"><b>oker.ammar@gmail.com</b></a>
                     </div>
                     <div class="mb-3">
                         <label for="name" class="form-label">
